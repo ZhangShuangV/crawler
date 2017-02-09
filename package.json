@@ -1,0 +1,23 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "crawler,reader",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "crawler",
+    "zs"
+  ],
+  "author": "zhangshuang",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.75.0",
+    "requirejs": "^2.3.2"
+  }
+}
